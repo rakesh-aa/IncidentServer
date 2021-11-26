@@ -14,6 +14,7 @@ namespace IncidentServer.Services
             _configuration = configuration;
         }
 
+        // Gets the Notifications from KnownIssues SharePoint List
         public async Task<NotificationResponse> GetNotifications()
         {
             var notificationResponse = new NotificationResponse();
