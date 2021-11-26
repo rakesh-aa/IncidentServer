@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ZssqaNmeaGwZvLLp+fy38o9fLXIHEHhCcNeUrW5ET0A=",
+  "Source": "IncidentServer",
+  "BasePath": "_content/IncidentServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
